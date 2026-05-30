@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Amal+Shaji+%F0%9F%91%8B;Flutter+Developer+%7C+3.5%2B+Years+Experience;Building+for+Android+%26+iOS+%F0%9F%93%B1;BLoC+%7C+GetX+%7C+Riverpod+State+Wizardry)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=amalshaji983&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/amalshaji983)
+[![Profile Views](https://komarev.com/ghpvc/?username=amall-shaji&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/amall-shaji)
 [![Gmail](https://img.shields.io/badge/amalshaji983%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amalshaji983@gmail.com)
 [![Location](https://img.shields.io/badge/Ernakulam%2C%20Kerala%2C%20India-0d1117?style=flat-square&logo=googlemaps&logoColor=38BDAE)](https://maps.google.com/?q=Ernakulam,Kerala)
 
@@ -102,11 +102,11 @@ class AmalShaji extends FlutterDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/amalshaji983">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=amalshaji983&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/amall-shaji">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=amall-shaji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/amalshaji983">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalshaji983&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/amall-shaji">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amall-shaji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -115,7 +115,7 @@ class AmalShaji extends FlutterDeveloper {
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amalshaji983&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=amall-shaji&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -123,7 +123,7 @@ class AmalShaji extends FlutterDeveloper {
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amalshaji983&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amall-shaji&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -131,7 +131,7 @@ class AmalShaji extends FlutterDeveloper {
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amalshaji983&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=amall-shaji&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
